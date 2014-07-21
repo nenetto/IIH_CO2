@@ -1,0 +1,10 @@
+La función de corrección está en iih_co2.m
+Necesita el archivo: medfilt3
+
+Instalación y uso 1:
+Copiar iih_co2.m y medfilt3.m en alguna ruta del path de matlab, o en la carpeta donde están las imágenes.
+Ejecutar "help iih_co2" para más información de cómo utilizarlo.
+Si se usa esta opción
+
+Instalación y uso 2:
+Descomprimir
